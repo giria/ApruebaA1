@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		CBF2531D2D98966E00DC72D7 /* Guess.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Guess.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CBF2531D2D98966E00DC72D7 /* Aprueba A1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Aprueba A1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		CBF2531F2D98966E00DC72D7 /* Guess */ = {
+		CBF2531F2D98966E00DC72D7 /* Aprueba A1 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Guess;
+			path = "Aprueba A1";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		CBF253142D98966E00DC72D7 = {
 			isa = PBXGroup;
 			children = (
-				CBF2531F2D98966E00DC72D7 /* Guess */,
+				CBF2531F2D98966E00DC72D7 /* Aprueba A1 */,
 				CBF2531E2D98966E00DC72D7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		CBF2531E2D98966E00DC72D7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CBF2531D2D98966E00DC72D7 /* Guess.app */,
+				CBF2531D2D98966E00DC72D7 /* Aprueba A1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CBF2531C2D98966E00DC72D7 /* Guess */ = {
+		CBF2531C2D98966E00DC72D7 /* Aprueba A1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CBF2532B2D98967000DC72D7 /* Build configuration list for PBXNativeTarget "Guess" */;
+			buildConfigurationList = CBF2532B2D98967000DC72D7 /* Build configuration list for PBXNativeTarget "Aprueba A1" */;
 			buildPhases = (
 				CBF253192D98966E00DC72D7 /* Sources */,
 				CBF2531A2D98966E00DC72D7 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				CBF2531F2D98966E00DC72D7 /* Guess */,
+				CBF2531F2D98966E00DC72D7 /* Aprueba A1 */,
 			);
-			name = Guess;
+			name = "Aprueba A1";
 			packageProductDependencies = (
 			);
 			productName = Guess;
-			productReference = CBF2531D2D98966E00DC72D7 /* Guess.app */;
+			productReference = CBF2531D2D98966E00DC72D7 /* Aprueba A1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CBF253182D98966E00DC72D7 /* Build configuration list for PBXProject "Guess" */;
+			buildConfigurationList = CBF253182D98966E00DC72D7 /* Build configuration list for PBXProject "Aprueba A1" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CBF2531C2D98966E00DC72D7 /* Guess */,
+				CBF2531C2D98966E00DC72D7 /* Aprueba A1 */,
 			);
 		};
 /* End PBXProject section */
@@ -251,7 +251,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Guess/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Aprueba A1/Preview Content\"\"";
 				DEVELOPMENT_TEAM = 48SFJ53X29;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -260,13 +260,14 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.giria.Guess;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Aprueba A1";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -280,7 +281,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Guess/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Aprueba A1/Preview Content\"\"";
 				DEVELOPMENT_TEAM = 48SFJ53X29;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -289,13 +290,14 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.giria.Guess;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Aprueba A1";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -305,7 +307,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CBF253182D98966E00DC72D7 /* Build configuration list for PBXProject "Guess" */ = {
+		CBF253182D98966E00DC72D7 /* Build configuration list for PBXProject "Aprueba A1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CBF253292D98967000DC72D7 /* Debug */,
@@ -314,7 +316,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CBF2532B2D98967000DC72D7 /* Build configuration list for PBXNativeTarget "Guess" */ = {
+		CBF2532B2D98967000DC72D7 /* Build configuration list for PBXNativeTarget "Aprueba A1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CBF2532C2D98967000DC72D7 /* Debug */,

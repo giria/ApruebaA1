@@ -1,0 +1,233 @@
+DevSecOps,"Encargado de la seguridad desde el inicio del ciclo de desarrollo, con herramientas automatizadas para la detección de vulnerabilidades.",tech
+EIDAS,"Electronic Identification, Authentication, and Trust Services Regulation, es el Reglamento UE 910/2014",UE
+ISO/IEC 25000,Enfoque principal: calidad del software. También conocido como SQuaRE (Software Quality Requirements and Evaluation),estandar
+PRTR,Plan de Recuperación  Transformacion y Resiliencia. Es el plan global de España para gestionar los fondos europeos Next Generation EU. ,economia
+PERTE,"Proyectos Estrategicos de Recuperacion y Transformacion Economica. Son proyectos específicos dentro del PRTR, diseñados para sectores estratégicos clave.Buscan colaboracion publica-privada",economia
+ENIA,Estrategia Naciaonal de Inteligencia Artificial.,organismo
+Componente 11 de PRTR,Modernizacion de las Administraciones Públicas,economia
+CPD,Centro de Proceso de Datos,tech
+HVAC,Heat Ventilation Air Conditioning. ,tech
+CRAC,"(Computer Room Air Conditioning) is a specialized cooling system designed to regulate temperature, humidity, and air distribution in data centers and server rooms",tech
+Cables LZSH,Cables LSZH,tech
+TREBEP,Text Refundido de la ley del Estatuto Basico del Empleado  Publico,normativa
+Privatus,Ciudadano común que no ostenta cargo publico.,normativa
+Privati,Plural de privatus,normativa
+RD 203/2021,"Reglamento de actuación y funcionamiento del sector público por medios electrónicos. Regula sedes, carpeta ciudadana, actuacion administrativa automatizada, identificación y firma.",normativa
+"Ley 40/2015, de Regimen Juridico del Sector Público","Normas internas, ad intra",normativa
+CTT ,Centro de Transferencia de Tecnología. Portal para la difusión y reutilización de soluciones técnicas. Se crea mediante el art 158 Ley 40/2015. Esta en el PAE,organismo
+Ley 3/2015,Ley reguladora del ejercicio del alto cargo de la Administración General del Estado,normativa
+TEU,"El Tablón Edictal Único consiste en un Suplemento de notificaciones del BOE, en el que se publican los anuncios de notificación que realice cualquier Administración Pública, ya sea Administración General del Estado, Comunidades Autónomas o Administración Local, cuando los interesados en un procedimiento sean desconocidos",servicio
+NOTIFICA,"Puede poner notificaciones en la DEHU, también puede enviar emails y SMS (no notificationes push)",servicio
+NEDAES,Servicio de gestion de nominas.,servicio
+INSIDE(Infraestructura y Sistemas de Documentación Electrónica),Gestion de expediente electrónico.Utiliza protocólo abierto CMIS(Content Management Interoperabity System).Comun y transveral,servicio
+VALIDE,Permite validar una firma en la web. Tiene detras  firma,servicio
+REGAGE Registro Electrónico General de la Administración General del Estado (AGE),"Registro electrónico que facilita la presentación de documentos, escritos y comunicaciones a la AGE, sus organismos públicos y entidades vinculadas",servicio
+Fibra Oscura,"circuitos de fibra óptica que ya han sido desplegados por algún operador de telecomunicaciones y que no están siendo utilizados,",tech
+Archive,Almacena a largo plazo. Utiliza protocólo OAIS(Open Archive Information system). Común y transversal.,servicio
+ISO/IEC,ISO/IEC stands for the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC).,estandar
+CDN,Content Delivery Network. Red de servidores que sirve contenido web rapidamente y eficientemente a los usuarios,tech
+Pacto de Toledo,Pacto politico para garantizar las pensiones.,política
+Mochila austriaca,"Ahorro individual acumulado por el trabajador, que puede usarse en el futuro.",economia
+Pensión contributiva ,Basadas en las cotizaciones previas del trabajador.,economia
+Pension no contributiva,"Para personas sin cotización suficiente, financiadas con impuestos.",economia
+Turespaña,Organismo encargado de la promoción de España como destino turístico en el extranjero,organismo
+CETIC, Comisión de Estrategia sobre Tecnologías de la Información y las Comunicaciones de la Administración del Estado. Fija las lineas estrategicas TIC,organismo
+REST,REST(Representational State Transfer)  es un estilo de arquitectura para el diseño de sistemas distribuidos y APIs web. Fue propuesto por Roy Fielding en su tesis en el año 2000 y se basa en el uso de recursos y un conjunto de reglas que garantizan escalabilidad y simplicidad en la comunicación entre sistemas.,tech
+SOAP,SOAP (Simple Object Access Protocol) es un protocolo de comunicación usado para intercambiar datos estructurados en servicios web,tech
+Gobernanza de datos,Para evitar que el data lake se transforme en un data swamp,política
+WCAG 2.2 (Web Content Accessibility guidelines),Conjunto de estándares internacionales para hacer el contenido web más accesible para personas con discapacidades. Publicado por W3C,estandar
+DGRCC,Direccion General de Racionalización y Contratación Centralizada. También es la responsable de la contratación en un SDA,contratos
+TACRC,Tribunal Administrativo Central de Recursos Contractuales. Si alguna empresa no esta de acuerdo con un contrato puede acudir a este tribunal.Plazos en dias hábiles.,contratos
+Contrato SARA,Sistema Armonizado de Regulacion de la Adquisición (vulgarmente conocido Sujeto a Regulaciones Armonizada),contratos
+Schengen,Acuerdo de Schengen relativo a la supresión gradual de los controles en las fronteras comunes,UE
+Blockchain,Es un registro distribuido con un numero creciente de datos (blocks) que estan enlazados mediante hashes criptográficos. Cada bloque contiene un hash de una marca de tiempo (timesptamp) y una transacción,tech
+SIM,Sistema Integral de Mensajeria,servicio
+NIDS ,Network Intrusion Detection System. Monitoriza el tráfico de red alertando de actividades sospechosas.,ciberseguridad
+SIEM,Security Information and Event Management. Detecta y responde a amanazas de seguridad e incidentes. Gloria y Monica,ciberseguridad
+CCN-CERT,Centro Criptológico Nacional - Computer Emergency Response Team,ciberseguridad
+COCS,Centro de Operaciones de CyberSeguridad. Presta servicio a todas las entidades publicas conecatadas a red SARA,ciberseguridad
+AEAD,Agencia Estatal de Administración Digital. Su objetivo es la transformacion digital de las administraciones publicas,organismo
+INCIBE-CERT, Centro de respuesta a incidentes de seguridad de referencia para los ciudadanos y entidades de derecho privado en España.Depende del Ministerio de Tranformacion digital y FuncionPublica,organismo
+ENISA,Agencia de la Union Europea para Ciberseguridad. Versión europea de CISA,organismo
+RTO,Objetivo de tiempo de recuperación. Tiempo recomendado de recuperacion. ,tech
+MTPD,Maximum Tolerable Periodo of Disruption. Tiempo maximo que podemoste permitirnos estar indisponibles.,tech
+RPO (Recovery Time Objective),Máxima cantidad de datos que es tolerable perder para una organización. Determina si la politica de backup es adecuada. Se mide en cantidad de datos,tech
+EDR,"Endpoint Detection and Respose. Continuamente monitoriza endpoints, detecta y responde a amenazas.",ciberseguridad
+Deficit público,Ocurre cuando los ingresos totales del sector público son menores que sus gastos ,economia
+Prima de riesgo,Diferencia entre la rentabilidad a 10 años entre el bono español  y el bono aleman,economia
+INSIDE,Gestión de documentos y expedientes electrónicos que cumple los requisitos del Esquema Nacional de Interoperabilidad. Se conecta al gestor documental con el protocólo CMIS,servicio
+Gestor Documental ,Nuxeo,tech
+Autentica,Servicio para logear empleados publicos,servicio
+Geiser,Gestion Integrada de Servicios. Gestiona las oficinas de registro.,servicio
+TS@,Servicio de sellado de tiempo. También puede acreditar el momento de creación de la firma.,servicio
+SEDIA,Secretaría de Estado de Digitalización e Inteligencia Artificial.Un órgano del Gobierno que depende del Ministerio para la Transformación Digital.,organismo
+AESIA,Agencia Española de Supervisión de la Inteligencia Artificial. Garantiza el uso ético y responsable de la IA,organismo
+Repositorio de artefactos,"ArtiFactory, Nexus",tech
+DataWarehouse,Almacena y agraga datos de multiples fuentes. Para reporting y analisis. Teradata (on premises). Ayuda en las decisiones estrategicas y operativas,tech
+Api Gateway,Proporciona un punto de entrada centralizado entre clientes y microservicios. Kong(microservicios) Apegee(web),tech
+Sonar Qube,"Software para Inspeccion continua de la calidad del codigo. De codigo abierto. Identifica errores, malas practicas y problemas de seguridad",tech
+RD 1125/2024 de Governanza TIC,Regula los servicios comunes y comunes y transversales. art 9 obligaciones de reutilizacion,normativa
+ISO 9241,estandar internaciona centrado en ergonomia e interacción persona-ordenador. Asegura que el sistema sea usable para una amplia gama de usuarios,estandar
+RGPD,Reglaménto UE 2016/679. Reglamento General de Protección de Datos.,UE
+LO 3/2018,Ley Organica de Proteccion de Datos Personales y Derechos Digitales (capitulo X),normativa
+RD 1720/2007,Reglamento de protección de datos.,normativa
+Reg UE 910/2014,Reglamento EIDAS. establece la interoperabilidad de los sistemas nacionales de identificación electrónica entre los Estados miembros de la UE.,UE
+Directiva UE 2016/2102,Accesibilidad de sitios web y aplicaciones para dispositivos móviles,UE
+RD 1112/2018,Transposición directiva europea de Accesibilidad de sitios web y aplicaciones para dispositivos móviles,normativa
+RD 1494/2007,Reglamento acceso a las personas con discapacidad. Establece la obligación de cumplir con nivel AA de accesibilidad (Norma UNE 139803:2004),normativa
+ley 6/2020,Ley reguladora de determinados aspectos de los servicios electrónicos de confianza. Transposición de Reglamento UE 910/2014 EIDAS,normativa
+Ley 34/2002,Servicios de la sociedad de la información  y comercio electrónico. Obligaciones de los prestadores de servicios electronicos,normativa
+LO 2/2012 Estabilidad presupuestaria y sostenibilidad financiera,"art 7.2 La gestión de los recursos públicos estará orientada por la eficacia, la eficiencia, la economía y la calidad",normativa
+Ley 37/2007,Reutilizacion de la información del sector público,normativa
+RD 311/2022,Esquema Nacional de Seguridad (ENS),normativa
+RD 4/2010,Esquema Nacional de Interoperabilidad (ENI). art 13 red SARA,normativa
+Reg UE 2022/868,Data Governance Act (Governanza europea de datos),UE
+Triada Datos,Reglaménto UE 2016/679 (RGPD). LO 3/2018 (LOPDPDD). rd 1720/2007,normativa
+Triada Accesibilidad,Directiva 2016/2102. rd 1112/2018. rd 1494/2007,normativa
+CISE,Centro de Interoeperabilidad Semantica. Publicar  modelos de datos que permiten intercambiar información entre las Administraciones Públicas ,organismo
+EGEO,Permite creación mapas interactivos.,servicio
+Grado de una relación,"Número de entidades que participan en la relación. Por ejempleo binaria, dos entidades,",tech
+Cardinalidad,Es el número de entidades con la cual otra entidad puede asociar mediante una relación binaria.ej: one-to one (1:1) o one-to-many(1:n),tech
+Diagrama de componentes,Es un diagrama de arquitectura lógica.,tech
+DMZ,Es una red que se coloca entre la red interna y una red externa (generalmente internet),tech
+Brújula Digital 2030,Estrategia para conseguir la transformación digital de la sociedad  y la economía para 2030,UE
+RPA,Robot Process Automation. Automatíza tareas repetitivas mediante bots,tech
+SAI-RPA,Servicio centralizado de la AEAD para automatizar procesos.,servicio
+Ley 19/2013,"Ley de de transparencia, acceso a la información pública y buen gobierno.",normativa
+Monitorizacion,"Icinga, Prometheus(microservicios) y Grafana",tech
+BELK,"Beats(recopila datos), ElasticSearch,LogStash(logs), Kibana(representación gráfica)",tech
+Directiva NIS2 .Directiva EU 2022/2555,Aumenta los requisitos de ciberseguridad para infraestructuras criticas,UE
+CyberResilience Act (CRA) Reglamento (UE) 2024/2847,Reglamento (aplicacion directa). Es parte de la Estrategia de ciberseguridad de la UE junto con NIS2.,UE
+Virtual Router Redundancy Protocol (VRRP),"Implementa fiabilidad en la red. Si un router falla, el otro ocupa su lugar",tech
+Integra@,Libreria Java que facilita la integración con @Firma,servicio
+Nube SARA,Servicio que proporciona recursos de computación y almacenamiento en modo cloud para la AGE. Servicio comun y transversal. Es una VPN que conecta todas las administraciones españolas,servicio
+Categoria de un sistema,"ALTA,  MEDIA, BASICA na (no aplica). Categoría de una dimensión: alta,media baja.",tech
+Firma electrónica cualificada,firma electrónica avanzada que se crea mediante un dispositivo cualificado de creación de firmas electrónicas y que se basa en un certificado cualificado de firma electrónica,tech
+Sede electrónica,"Necesita loguearse (identificatcion, autenticacion y autorizacion)",tech
+Portal,No necesita loguearse,tech
+KPI Key Performance Indicator,"Un valor medible que indica como efectiva es una organización para alcanzar  sus objetivos. SMART: specifc, measurable, achievable, relevant, time-bound. ",economia
+Metodología Karner,"UCP = (UUCW + UAW) x TCF x ECF(Unadjusted use case weightt, unadjusted  actor weight, tecnical complexity factor, environment complexity factor",tech
+RD 4/2010 Esquema Nacional de Interoperabilidad,Establece la serie de Normas Técnicas de Interoperabilidad que son de obligado cumplimiento por las AA.PP. ,normativa
+Codigo Libre (Free Software),Tiene las 4 libertades,tech
+Codigo Abierto (Open Source),Tenemos acceso al codigo,tech
+UTM (Unified Thread Manager),"Proporciona muliplesfunciones de seguridad(antivirus, antispam, filtrado de contenido,..) en un solo dispositivo ",tech
+Talend (ETL),"open-source ETL (Extract, Transform, Load) tool and data integration platform. It provides a visual, drag-and-drop interface for designing data pipelines",tech
+Clasificacion económica del gasto público,1 Gastos de Personal  2 Gastos en bienes y servicios  4 Transferencias corrientes 6 Inversiones reales,economia
+Malversación,Cuando un funcionario público se apropia o utiliza indebidamente fondos o bienes públicos para su beneficio o el de otros.,fraude
+Soborno,"Una persona ofrece, da o recibe dinero u otros beneficios a cambio de hacer (o dejar de hacer) algo relacionado con su cargo.",fraude
+Fraude,Un engaño con intención de obtener un beneficio ilícito,fraude
+Corrupcion,Abuso del poder para obtener beneficios personales.,fraude
+OLAF,Oficina Europea Antifraude (del Frances Office européen de lutte antifraude),fraude
+DACI,Declaración de Ausencia de Conflicto de Intereses,fraude
+Malversación,Utilizar fondos con fines contrarios a los que estaban previstos,fraude
+Conflicto de intereses,"Un empleado publico tiene intereses personales que pueden influir en sus decisiones profesionales, aunque no haya un delito necesariamente.",fraude
+Ley Organica 3/2007 Para la igualdad efectiva de mujeres y hombres," El principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil",normativa
+HSM (Hardware Security Module),"Dispositivo criptográfico basado en hardware que genera, almacena y protege claves criptográficas ",tech
+DIR3 Directorio Comun de Unidades Orgánicas,"Proporciona un Inventario unificado y común a toda la Administración de las unidades orgánicas / organismos públicos,",servicio
+SAT INET Sonda de Alerta Temprana,Sistema de Alerta Temprana. Detección en tiempo real de las amenazas e incidentes existentes en el tráfico que fluye entre la red interna del Organismo adscrito e Internet.,ciberseguridad
+Sprint Zero,"Sprint previo al primero “real”. Se usa para preparar el entorno, definir herramientas, arquitectura básica y backlog inicial.",tech
+Scrum,"Un marco ágil para gestionar proyectos, especialmente en desarrollo de software. Se enfoca en entregas rápidas, trabajo en equipo y mejora continua mediante ciclos llamados sprints.",scrum
+Product Owner (PO),Define qué se hace y prioriza el trabajo en el Product Backlog.,scrum
+Scrum Master,Es el facilitador del equipo Scrum. Se asegura de que se sigan las reglas de Scrum y ayuda a eliminar obstáculos.,scrum
+Sprint Review,Al final del sprint se enseña el tabajo hecho a los stakeholders (demo),scrum
+Sprint Retrospective,El equipo reflexiona sobre cómo mejorar en el siguiente sprint.,scrum
+Daily Scrum (Daily Standup),"Reunión diaria (15 min). Cada miembro dice: qué hizo ayer, que hará hoy, si hay bloqueos",scrum
+Sprint Planning,Se planifica lo que se va a hacer en el sprint,scrum
+Ley 9/2017 de Contratos del Sector Publico," normativa que regula cómo deben contratar las administraciones públicas (como ayuntamientos, ministerios, hospitales públicos, etc.) con empresas o particulares para obtener bienes, servicios u obras.",contratos
+DAFO,"Debilidades, Amenazas, Fortalezas, Oportunidades",tech
+NTI Norma Técnica de Interoperabilidad,"Catalogo de estandares, documento electrónico, expediente electrónico , digitalizacion de documentos",nti
+Modelo de estimación de Albrecht,Utiliza puntos de función.Un punto de función equivale a 10 horas-persona.,estimación
+Modelo de estimación de Karner,Utiliza UCP(Use Case Points) a partir del diagrama de casos de uso. 28 horas-persona por UCP.,estimación
+Orquestación Dockers,"Kubernetes, Portainer, Docker Swarm",tech
+PLATA. Plataforma de traducción automática ,Traducción a las lenguad cooficiales e Ingles. Art 13c y 15 ley 39/2015,servicio
+694,Gastos en inversiones de caracter inmaterial (Solo PRTR),contratos
+Ley 39/2015 Procedimiento Administrativo Comun de las Administraciones Públicas,5 - representación ,normativa
+Procedimiento restringido,Para importes superiores a 862.000 tenemos abierto y RESTRINGIDO. Es mas largo que el abierto,contratos
+TEAC Tribunal Economico Administrativo Central,Para los que roban,contratos
+DEUC Documento Europeo Unico de Contratación,"Consiste en una declaración de la situación financiera, las capacidades y la idoneidad de las empresas para un procedimiento de contratación pública.",contratos
+SDA Sistema Dinámico de Adquisición 26/2021,"Procedimiento de contratación pública completamente electrónico,ofrece una mayor flexibilidad y eficiencia en la adquisición de bienes y servicios.Responsable DGRCC.Plazos dias naturales",contratos
+Procedimiento Abierto de Contratación,sistema de adjudicación de los contratos públicos en el que todo empresario interesado podrá presentar una proposición y en el que está prohibida toda negociación de los términos del contrato con los licitadores.,contratos
+PLACE Plataforma de Contratatción del estado,"Portal web que constituye un nodo central de intercambio de información de contratación, que sirve como punto de encuentro virtual entre compradores del Sector Público y licitadores.",contratos
+art 5 Representacion,"Para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona",Ley 39/2015
+art 9 Identificación electrónica ,Los interesados podrán identificarse electrónicamente,Ley 39/2015
+art 10 Firma,Los interesados podrán firmar,Ley 39/2015
+art 15 y 13c PLATA,Los interesados podran utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma,Ley 39/2015
+art 16 Registros,Cada Administración dispondrá de un Registro Electrónico General,Ley 39/2015
+art 17 Archivo,Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados,Ley 39/2015
+art 158 Ley 40/2015,"CTT (Centro de transferencia de tecnología). Directorios actualizados de aplicaciones para su libre reutilización, segun ENI",Ley 40/2015
+P. rd 203/2021 (Actuación y funcionamiento del sector público),Neutralidad tecnológica. Accesibilidad. Facilidad de uso. interoperabilidad. Proporcionalidad. Personalización y proactividad,Principios
+P. rd 4/2010 (ENI),Interoperabilidad como propiedad integral. Caracter multidmensional. Solución multilateral.,Principios
+P. rd 311/2022 (ENS),"Seguridad proceso integral. basa en riesgos. Prevencion, detección,respuesta y conservación. Existencia lineas defensa.Vigilancia continua. Reevaluacion periodica. Diferenciación de responsabilidades ",Principios
+Digital Markets Act,Regulacion dirigida a prevernir comportamientos anticompetitivos por parte de grandes empresas tecnológicas (gatekeppers),UE
+ISO/IEC 27001 Seguridad de la Información,"Implantar, mantener y mejorar un sistema de gestión de la Seguridad de la Información",estandar
+Dirección Electrónica Habilitada Única ( DEHú ),Permite el acceso a las notificaciones y comunicaciones de la AEAT y del resto de Administraciones Públicas integradas.,servicio
+Principios de accesibilidad de Jakob Nielsen,Visibilidad del estado del sistema. Consistencia y estandares. Diseño estético y minimalista.,estandar
+Cross-site request forgery (CSRF) , un atacante engña a un usuario para que realize una acción en un sitio web en el que esta logueado. ,ciberseguridad
+Cross-site scripting (XSS),Permite a los atacantes inyectar scripts maliciosos en sitios web legítimos,ciberseguridad
+Estaremos a lo dispuesto,Estaremos a lo dispuesto en el art. X. Actuaremos conforme a lo previsto en. Nos sujetaremos a lo establecido en.Procedederemos en los términnos del,redacción
+Definimos ,Hablar en plural: Suplicamos al juzgado en vez de suplico al juzgado,redacción
+cuadro de mando (Dashboard),En singular.,redacción
+LA interfaz,es femenino,redacción
+"Ley 19/2013 de transparencia, acceso a la información pública y buen gobierno.","Publicidad activa. Información económica, presupuestaria y estadística.Control: Consejo de Transparencia y Buen Gobierno. Portal de transparencia",normativa
+art 28 PID(Plataforma de Intermediación de Datos),Los interesados tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración,Ley 39/2015
+art 156,Esquema Nacional de Interoperabilidad y Esquema Nacional de Seguridad.,Ley 40/2015
+art 157, Reutilización de sistemas y aplicaciones de propiedad de la Administración.,Ley 40/2015
+Diagrama conceptual,"Capturan la esencia del dominio, sin preocuparse de detalles técnicos. Casos de uso, clases conceptuales",UML
+Diagrama lógico,"Describen estructura y comportamiento, pero aún a un nivel de diseño, no de implementación. Secuencia, componentes,",UML
+Interoperable Europe Act . REGULATION EU 2024/903 ,Medidas de interoperabilidad del sector publico europeo. Sustituye a ISA 2,UE
+Pacto Verde Europeo (Green Deal),"Estrategia para alcanzar la neutralidad climática para 2050, reduciendo las emisiones de gases de efecto invernadero a cero",UE
+Protección Perimetral,Proteger la red interna de las redes externas,tech
+SLA (Service Level Agreement),Contrato que describe las expectativas de rendimiento  para un servicio prestado a un cliente.,tech
+802,Auditoria Externa,CCN-STIC
+803,Valoración de los sistemas,CCN-STIC
+804,Implantacion de los sistemas,CCN-STIC
+807,Criptologia del empleo,CCN-STIC
+808,Auditoria Interna,CCN-STIC
+STIC,Seguridad de las Tecnologías de la Informacion y Comunicación,CCN-STIC
+811,Interconexión en el ENS,CCN-STIC
+817,Gestion de ciberincidentes (CCN-cert y Lucia),CCN-STIC
+823,Utilización de servicios en la nube,CCN-STIC
+827,Gestion y uso dispositivos moviles,CCN-STIC
+836,Seguridad en VPN,CCN-STIC
+TESTA,Trans European Services for Telematics between Administrations. Red interadministrativa de la Union Europea,tech
+Redis(Remote Dictionary Server),In-memory clave-valor database. Caso de uso: Monitoreo de errores en tiempo real.,tech
+empleado público,"Poner empleado público, nunca funcionario.",redacción
+OAIS,Open Archive Information system,tech
+art 41 Actuación administrativa automatizada,Actuación en la que no haya intervenido de forma directa un empleado público,Ley 40/2015
+art 11 4/2010,"Se usaran estandares abiertosy de forma complementaria, estándares que sean de uso generalizado por los ciudadanos",ENI
+art 21.4 Ley 39/2015,SIA (sistema de Información administrativa) catálogo de información sobre tramitación administrativa.,Ley 39/2015
+art 18 CE,La ley limitará el uso de la informatica para garantizar el honor y la intimidad personal  y familiar de los ciudadanos y el ejercicio de sus derechos.,CE
+art 35 CE,"Todos los españoles tienen el deber de trabajar y el derecho al trabajo, ",CE
+art 38 CE,Libertad de empresa,CE
+art 45,Todos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona asi como el deber de conservarlo,CE
+art 50 pensiones,"Los poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad. ",CE
+art 103 CE,"La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación",CE
+art 135 CE,Todas las administraciones adecuaran sus actuaciones al principio de estabilidad presupuestaria,CE
+Redes Territoriales de Especialización Tecnológica (RETECH),Proyectos estratégicos emblemáticos transformadores en el área digital propuestos por las comunidades autónomas.,economia
+art 13 ley Red SARA,Red de comunicaciones de las Administraciones públicas españolas. Red de Sistemas de Aplicaciones y Redes para las Administraciones,ENI
+SIA (Sistema de Información Administrativa),Aplicación informática cuya función básica es la de actuar como catálogo de información sobre tramitación administrativa.,tech
+Cuadro de mando,Power BI,tech
+Publicidad activa,"Obligación de todas las administraciones públicas de publicar determinada información de forma periódica y actualizada, sin necesidad de petición previa por parte de los ciudadanos",normativa
+Nube SARA 2,Plataforma de virtualización y contenerización que la Administración Electrónica utiliza para ofrecer servicios de infraestructura como servicio (IaaS) a organismos solicitantes,tech
+Area de Conexión,Infraestructura de red que permite que los organismos puedan acceder y utilizar los recursos de la nube.,tech
+Decada Digital Europea 2030,Estrategia digital de la Unión Europea establecida para transformar digitalmente Europa.Indicadores: DESI (Digital Economy and Sociery Index),UE
+Tasa de actividad,"en edad de trabajar (generalmente a partir de los 16 años) que está económicamente activa, es decir, que está empleada o busca empleo",economia
+Manifesto Agile,"Interaccions v processes,tools. working software v documentation. Customer colaboration v contract. Responding to chanve v follow a plan.",scrum
+Pliego de prescripciónes técnicas,Lo que se va a contratar y el presupuesto base de licitación ,contratos
+Pliego de cláusulas administrativas ,Condiciones jurídicas  y economicas del contrato,contratos
+ISA² (Interoperability Solutions for European Public Administrations) ,Facilita la interconéxion entre diferentes paises miembros de la UE,UE
+diagrama de red,Diagrama de arquitectura fisica.,diagramas
+Amazon S3,Simple Storage Service ,tech
+Ministerio de Hacienda,Responsable de la política presupuestaria y financiera del Estado. ,presupuestos
+Ministerio de Economía,Diseño y coordinación de la política económica a largo plazo,presupuestos
+Ordenación del gasto,"conjunto de actos que culmina con el reconocimiento de la obligación con cargo al
+presupuesto (Ministerio de Hacienda)",presupuestos
+Ordenación del pago,"Encaminado a liberar a la Administración de la
+obligación previamente reconocida mediante una salida material o virtual de fondos del Tesoro Público
+(Ministerio de Economía).",presupuestos
+Retencion de credito (RC), certifica la existencia de saldo disponible en una partida presupuestaria para la posterior autorización de un gasto,presupuestos
+Aprobación del gasto (A)," Se autoriza la realización de un gasto determinado por una cantidad, reservando a tal fin la totalidad o parte de un crédito presupuestario.",presupuestos
+Compromiso de Gasto(D),"se acuerda, tras el cumplimiento de los trámites la realización de gastos previamente aprobados, por un importedeterminado o determinable",presupuestos
+Reconocimiento de la Obligación(O),"es el acto mediante el que se declara la existencia de un créditoexigible, derivado de un gasto aprobado y comprometido ",presupuestos
+propuesta de Pago(K),"Reconocimiento de la obligación (+propuesta de pago, ojo, porque van juntos normalmente) OK",presupuestos
+Directiva 2014/24/UE,Ley europea sobre contratación pública,UE
